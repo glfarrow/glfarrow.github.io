@@ -225,7 +225,11 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
-};
+  "~*x Gavin ~*y": [
+"Hey Gavin! You are so cool man!",
+"Are you happy with L&T?",
+"I know this dumb class is hard. You'll make it through.",
+],
 
 var default_responses = [
   "Very interesting",
